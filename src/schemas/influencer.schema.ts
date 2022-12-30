@@ -5,6 +5,7 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
   versionKey: false,
   timestamps: true,
 })
+// Schema Updated
 export class Influencer extends AbstractDocument {
   @Prop()
   name: string;
