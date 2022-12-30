@@ -1,0 +1,2 @@
+export const MEETING_SERVICE = 'MEETING';
+export const INFLUENCER_SERVICE = 'INFLUENCER';
